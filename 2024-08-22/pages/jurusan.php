@@ -1,0 +1,7 @@
+Jurusan SMKN 2 BUDURAN :
+RPL
+DKV
+AK
+BD
+MP
+LPB
