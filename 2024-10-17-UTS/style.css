@@ -1,0 +1,147 @@
+        * {
+            margin: 0;
+        }
+        /* .judul {} */
+        
+        img {
+            width: 100%;
+        }
+        
+        .b2 {
+            background-color: white;
+            width: 78%;
+            padding: 80px;
+            font-size: small;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .b2 h1 {
+            margin-left: 545PX;
+        }
+        
+        .b2 p {
+            margin-top: 15px;
+            margin-left: 525PX;
+        }
+        
+        .b2 h5 {
+            margin-top: 40px;
+            background-color: black;
+            width: 85px;
+            padding: 7PX;
+            margin-left: 550PX;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            border-radius: 5px;
+            align-items: center;
+        }
+        
+        .b3 {
+            background-color: rgb(23, 80, 187);
+            width: 758;
+            padding: 130px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .b3 p {
+            font-size: 10px;
+            color: yellowgreen;
+            text-align: center;
+        }
+        
+        .b3 h1 {
+            color: white;
+            font-size: x-large;
+            margin-top: 10px;
+            text-align: center;
+        }
+        
+        .b3 button {
+            background-color: white;
+            width: 25px;
+            padding: 50px;
+            border-radius: 100%;
+            margin-top: 15px;
+            margin-left: 137.2px;
+        }
+        
+        .b3 .text {
+            color: white;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+        }
+        
+        .jdl {
+            color: black;
+            text-align: center;
+            font-family: sans-serif;
+            font-size: 8px;
+            margin-top: 150px;
+        }
+        
+        .jdl2 {
+            font-size: 15px;
+            text-align: center;
+        }
+        
+        .gmbr {
+            width: 45%;
+            display: flex;
+            margin-left: 65px;
+            margin-top: 20px;
+        }
+        
+        .gmbr2 {
+            width: 45%;
+            display: flex;
+            margin-left: 65px;
+        }
+        
+        .wadah {
+            background-color: rgb(14, 65, 158);
+            width: 758;
+            padding: 75px;
+            margin-top: 70px;
+        }
+        
+        .wadah .j h2 {
+            color: white;
+            font-size: 20px;
+            text-align: center;
+        }
+        
+        .wadah .izi {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+        }
+        
+        .wadah .izi .tl {
+            background-color: white;
+            width: 43px;
+            padding: 7px;
+            font-size: 10px;
+            font-family: Arial, Helvetica, sans-serif;
+            border-radius: 5px;
+            margin-right: 5px;
+        }
+        
+        .wadah .izi .tl1 {
+            color: white;
+            background-color: black;
+            width: 55px;
+            padding: 7px;
+            font-size: 10px;
+            font-family: Arial, Helvetica, sans-serif;
+            border-radius: 5px;
+            margin-left: 5px;
+        }
+        
+        .prgff {
+            margin-top: 5px;
+            color: white;
+            font-size: 12px;
+            display: flex;
+            justify-content: space-evenly;
+        }
