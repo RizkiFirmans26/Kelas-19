@@ -1,0 +1,57 @@
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+.logo img {
+    width: 150px;
+    height: 150px;
+}
+
+.nav ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.header {
+    display: flex;
+}
+
+.sekolah {
+    margin-left: 25px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.home {
+    background-color: brown;
+}
+
+.umpan {
+    background-color: aquamarine;
+}
+
+.pembaruan {
+    background-color: chartreuse;
+}
+
+.profil {
+    background-color: gold;
+}
+
+.kegiatan {
+    background-color: hotpink;
+}
+
+.inklusi {
+    background-color: red;
+}
+
+.footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: cadetblue;
+}
